@@ -14,7 +14,8 @@ Neste projeto, os principais aprendizados incluem:
 - **Criar eventos de interação com a pessoa usuária.**
 - **Utilizar objetos utilitários do JavaScript.**
 
-
+## 🌐 Link de Acesso
+- [Acesse aqui o projeto](https://projeto-fokus-js.vercel.app/)
 
 ## 🚀 Tecnologia utilizada
 - JavaScript
